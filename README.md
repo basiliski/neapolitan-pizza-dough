@@ -15,14 +15,21 @@ Make sure the flour you use is 00-type.
 ## Making the pizza
 You can either start by mixing flour or yeast into the room temperature water. Salt shouldn't be combined with the
 yeast without flour as a buffer because salt can damage the yeast.
-We'll start by adding small portions of flour to the water and then add the yeast to the soggy mix. Next, we continue
-adding flour on the dough until it doesn't stick to the bowl. Be sure to add only small amounts of flour at the
+We'll start by adding small portions of flour to the water and then add the yeast to the soggy mix.
+
+Next, we continue adding flour on the dough until it doesn't stick to the bowl. Be sure to add only small amounts of flour at the
 time and keep kneading it until smooth. This is to make the dough as fluffy and moist as possible.
 The kneading could easily take 20-30 min. 
-When the bouncy and light dough is ready, let it rest for 2h at room temperature. After that shape the dough into 
-doughballs that are best when kept at a fridgerator for overnight. Cover the balls with wrapping and olive oil
+
+When the bouncy and light dough is ready, let it rest for 2h at room temperature. 
+![](https://github.com/basiliski/neapolitan-pizza-dough/blob/main/pics/1.jpg)
+After that shape the dough into doughballs that are best when kept at a fridgerator for overnight. Cover the balls with wrapping and olive oil
 to prevent them from drying.
+![](https://github.com/basiliski/neapolitan-pizza-dough/blob/main/pics/2.jpg)
+![](https://github.com/basiliski/neapolitan-pizza-dough/blob/main/pics/3.jpg)
 When taken out of the fridge the doughballs should rest an other two hours at room temperature, they are then ready
 to be shaped into pizzas. This process is something you should watch a video about, remember not to flatten the edges
 of the airy dough. :)
+![](https://github.com/basiliski/neapolitan-pizza-dough/blob/main/pics/4.jpg)
+![](https://github.com/basiliski/neapolitan-pizza-dough/blob/main/pics/5.jpg)
 When cooking the pizzas, the hotter the better! 
